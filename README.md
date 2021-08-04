@@ -1,1 +1,1 @@
-# 1DCNN
+# 1DCNN for BigMax
